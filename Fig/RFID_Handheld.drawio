@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" modified="2024-03-10T06:40:31.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="EHvxdHV1ejKdjjMSKdNd" version="24.0.4" type="device">
+  <diagram name="Page-1" id="YL44SzjvhRnU7Gp1QKZ3">
+    <mxGraphModel dx="1114" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p6LQREPvEvEvEYU_g2ty-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="p6LQREPvEvEvEYU_g2ty-1" target="p6LQREPvEvEvEYU_g2ty-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p6LQREPvEvEvEYU_g2ty-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;curved=0;strokeWidth=2;startArrow=classic;startFill=1;" parent="1" source="p6LQREPvEvEvEYU_g2ty-1" target="p6LQREPvEvEvEYU_g2ty-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p6LQREPvEvEvEYU_g2ty-1" value="MCU" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;fillStyle=cross-hatch;strokeWidth=2;rounded=0;glass=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="350" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p6LQREPvEvEvEYU_g2ty-22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;curved=0;strokeWidth=2;startArrow=classic;startFill=1;" parent="1" source="p6LQREPvEvEvEYU_g2ty-2" target="p6LQREPvEvEvEYU_g2ty-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p6LQREPvEvEvEYU_g2ty-2" value="MicroSD&lt;div&gt;Card&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="400" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p6LQREPvEvEvEYU_g2ty-3" value="RFID&amp;nbsp;&lt;div&gt;Reader / Writer&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="520" y="120" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jq1NKxNL2X3yyt0AduWz-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="p6LQREPvEvEvEYU_g2ty-4" target="p6LQREPvEvEvEYU_g2ty-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p6LQREPvEvEvEYU_g2ty-4" value="RFID&amp;nbsp;&lt;div&gt;Antenna&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="520" y="240" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p6LQREPvEvEvEYU_g2ty-5" value="Battery" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="200" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p6LQREPvEvEvEYU_g2ty-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;curved=0;strokeWidth=2;" parent="1" source="p6LQREPvEvEvEYU_g2ty-6" target="p6LQREPvEvEvEYU_g2ty-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p6LQREPvEvEvEYU_g2ty-6" value="USB" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="300" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p6LQREPvEvEvEYU_g2ty-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;curved=0;strokeWidth=2;startArrow=classic;startFill=1;" parent="1" source="p6LQREPvEvEvEYU_g2ty-7" target="p6LQREPvEvEvEYU_g2ty-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="340" />
+              <mxPoint x="490" y="340" />
+              <mxPoint x="490" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p6LQREPvEvEvEYU_g2ty-7" value="Wi-Fi&amp;nbsp;&lt;div&gt;Module&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="490" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p6LQREPvEvEvEYU_g2ty-25" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;curved=0;" parent="1" source="p6LQREPvEvEvEYU_g2ty-8" target="p6LQREPvEvEvEYU_g2ty-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p6LQREPvEvEvEYU_g2ty-8" value="Battery Charger" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="200" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p6LQREPvEvEvEYU_g2ty-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;curved=0;strokeWidth=2;" parent="1" source="p6LQREPvEvEvEYU_g2ty-9" target="p6LQREPvEvEvEYU_g2ty-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p6LQREPvEvEvEYU_g2ty-9" value="Keyboard" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=auto;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="300" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p6LQREPvEvEvEYU_g2ty-10" value="TFT LCD" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="390" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p6LQREPvEvEvEYU_g2ty-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.15;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;curved=0;strokeWidth=2;startArrow=classic;startFill=1;" parent="1" source="p6LQREPvEvEvEYU_g2ty-6" target="p6LQREPvEvEvEYU_g2ty-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
