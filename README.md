@@ -129,6 +129,11 @@ MRFC522 is used as controller IC. It is really conventional for reading and writ
 
 A custom antenna is designed based on our device and it is done by a tools which is released by NXP. It is a software to calculate impedance matching network component and also to set up the width, height and number of turns for antenna.
 
+![Block diagram](https://github.com/hosein-mokarian/RFID-Handheld/blob/main/Fig/RFID_Handheld_antenna.JPG)
+
+<div style="text-align: center;">
+    <p>Fig 3. RFID Antenna</p>
+</div>
 
 
 ###### System Design Theory
