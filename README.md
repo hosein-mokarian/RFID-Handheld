@@ -47,6 +47,13 @@ The overall view of designed system is shown in Fig.1.
 
 Fig.2 shows the 3d view of designed board on the Altium Designer software. 
 
+![Block diagram](https://github.com/hosein-mokarian/RFID-Handheld/blob/main/Fig/RFID_Handhels_top.JPG)
+![Block diagram](https://github.com/hosein-mokarian/RFID-Handheld/blob/main/Fig/RFID_Handhels_bottom.JPG)
+
+<div style="text-align: center;">
+    <p>Fig 2. Board Image</p>
+</div>
+
 
 
 ###### Key System Specifications
